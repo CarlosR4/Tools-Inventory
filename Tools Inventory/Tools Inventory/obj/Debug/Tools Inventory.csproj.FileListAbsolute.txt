@@ -1,0 +1,10 @@
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\bin\Debug\Tools Inventory.exe.config
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\bin\Debug\Tools Inventory.exe
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\bin\Debug\Tools Inventory.pdb
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\obj\Debug\Tools_Inventory.Form1.resources
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\obj\Debug\Tools_Inventory.Properties.Resources.resources
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\obj\Debug\Tools Inventory.csproj.GenerateResource.cache
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\obj\Debug\Tools Inventory.exe
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\obj\Debug\Tools Inventory.pdb
+C:\Users\le1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\obj\Debug\Tools Inventory.csproj.CoreCompileInputs.cache
+C:\Users\LE1927627\OneDrive - Champlain Regional College\Desktop\Final Project\Tools Inventory\Tools Inventory\obj\Debug\Tools Inventory.csproj.AssemblyReference.cache
